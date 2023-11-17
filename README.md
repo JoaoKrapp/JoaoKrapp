@@ -9,7 +9,8 @@
 - 💬 Ask me about Python
 
 <br/>
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKrapp&layout=compact&langs_count=10&theme=radical)](https://github.com/JoaoKrapp?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKrapp&layout=compact&langs_count=10&theme=radical)](https://github.com/JoaoKrapp?tab=repositories)
 
 ## 🪢 Connect with me:
 <div>
