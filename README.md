@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKrapp&layout=compact&langs_count=10&theme=radical)](https://github.com/JoaoKrapp?tab=repositories)
 
 ## My name is Joao!
-- 👨 I´m 18 years old.
+- 👨 I´m 19 years old.
 - 👯 I’m looking to collaborate with other devs to improve together
 - 📫 How to reach me: click 
 - 💬 Ask me about Python
