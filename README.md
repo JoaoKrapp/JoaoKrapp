@@ -1,16 +1,16 @@
 # 👋 Hello! Welcome to my Github profile.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoKrapp&include_all_commits=true&count_private=true&show_icons=true&theme=radical)](https://github.com/JoaoKrapp?tab=repositories)
 
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKrapp&layout=compact&langs_count=10&theme=radical)](https://github.com/JoaoKrapp?tab=repositories)
 
 ## My name is Joao!
 - 👨 I´m 19 years old.
 - 👯 I’m looking to collaborate with other devs to improve together
 - 📫 How to reach me: click 
 - 💬 Ask me about Python
+
+- <br/>
+
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKrapp&layout=compact&langs_count=10&theme=radical)](https://github.com/JoaoKrapp?tab=repositories)
 
 ## 🪢 Connect with me:
 <div>
