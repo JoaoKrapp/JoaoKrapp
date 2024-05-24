@@ -3,10 +3,10 @@
 
 
 ## My name is Joao!
-- 👨 I´m 19 years old.
+- 👨 I´m 20 years old.
 - 👯 I’m looking to collaborate with other devs to improve together
 - 📫 How to reach me: click 
-- 💬 Ask me about Python
+- 💬 Ask me about Python and Rust
 
 <br/>
 
